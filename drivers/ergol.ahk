@@ -514,3 +514,99 @@ $<^>!Backspace:: Send {SC0e}
 
 ;  Space bar
 
+
+
+;-------------------------------------------------------------------------------
+; Alt
+;-------------------------------------------------------------------------------
+
+;  Digits
+
+;  Letters, first row
+
+ <!SC10::SendInput {Blind}q
+<!+SC10::SendInput {Blind}Q
+
+ <!SC11::SendInput {Blind}c
+<!+SC11::SendInput {Blind}C
+
+ <!SC12::SendInput {Blind}o
+<!+SC12::SendInput {Blind}O
+
+ <!SC13::SendInput {Blind}p
+<!+SC13::SendInput {Blind}P
+
+ <!SC14::SendInput {Blind}w
+<!+SC14::SendInput {Blind}W
+
+ <!SC15::SendInput {Blind}j
+<!+SC15::SendInput {Blind}J
+
+ <!SC16::SendInput {Blind}m
+<!+SC16::SendInput {Blind}M
+
+ <!SC17::SendInput {Blind}d
+<!+SC17::SendInput {Blind}D
+
+ <!SC19::SendInput {Blind}y
+<!+SC19::SendInput {Blind}Y
+
+;  Letters, second row
+
+ <!SC1e::SendInput {Blind}a
+<!+SC1e::SendInput {Blind}A
+
+ <!SC1f::SendInput {Blind}s
+<!+SC1f::SendInput {Blind}S
+
+ <!SC20::SendInput {Blind}e
+<!+SC20::SendInput {Blind}E
+
+ <!SC21::SendInput {Blind}n
+<!+SC21::SendInput {Blind}N
+
+ <!SC22::SendInput {Blind}f
+<!+SC22::SendInput {Blind}F
+
+ <!SC23::SendInput {Blind}l
+<!+SC23::SendInput {Blind}L
+
+ <!SC24::SendInput {Blind}r
+<!+SC24::SendInput {Blind}R
+
+ <!SC25::SendInput {Blind}t
+<!+SC25::SendInput {Blind}T
+
+ <!SC26::SendInput {Blind}i
+<!+SC26::SendInput {Blind}I
+
+ <!SC27::SendInput {Blind}u
+<!+SC27::SendInput {Blind}U
+
+;  Letters, third row
+
+ <!SC2c::SendInput {Blind}z
+<!+SC2c::SendInput {Blind}Z
+
+ <!SC2d::SendInput {Blind}x
+<!+SC2d::SendInput {Blind}X
+
+ <!SC2f::SendInput {Blind}v
+<!+SC2f::SendInput {Blind}V
+
+ <!SC30::SendInput {Blind}b
+<!+SC30::SendInput {Blind}B
+
+ <!SC32::SendInput {Blind}h
+<!+SC32::SendInput {Blind}H
+
+ <!SC33::SendInput {Blind}g
+<!+SC33::SendInput {Blind}G
+
+ <!SC35::SendInput {Blind}k
+<!+SC35::SendInput {Blind}K
+
+;  Pinky keys
+
+;  Space bar
+
