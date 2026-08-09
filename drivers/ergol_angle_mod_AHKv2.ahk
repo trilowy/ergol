@@ -585,6 +585,33 @@ $<^>!Backspace:: Send("{SC0e}")
 
 ;  Digits
 
+ <!SC02::SendInput("{Blind}1")
+
+ <!SC03::SendInput("{Blind}2")
+
+ <!SC04::SendInput("{Blind}3")
+
+ <!SC05::SendInput("{Blind}4")
+<!+SC05::SendInput("{Blind}$")
+
+ <!SC06::SendInput("{Blind}5")
+<!+SC06::SendInput("{Blind}`%")
+
+ <!SC07::SendInput("{Blind}6")
+<!+SC07::SendInput("{Blind}{^}")
+
+ <!SC08::SendInput("{Blind}7")
+<!+SC08::SendInput("{Blind}&")
+
+ <!SC09::SendInput("{Blind}8")
+<!+SC09::SendInput("{Blind}*")
+
+ <!SC0a::SendInput("{Blind}9")
+<!+SC0a::SendInput("{Blind}{#}")
+
+ <!SC0b::SendInput("{Blind}0")
+<!+SC0b::SendInput("{Blind}@")
+
 ;  Letters, first row
 
  <!SC10::SendInput("{Blind}q")
@@ -610,6 +637,8 @@ $<^>!Backspace:: Send("{SC0e}")
 
  <!SC17::SendInput("{Blind}d")
 <!+SC17::SendInput("{Blind}D")
+
+<!+SC18::SendInput("{Blind}{!}")
 
  <!SC19::SendInput("{Blind}y")
 <!+SC19::SendInput("{Blind}Y")
@@ -651,11 +680,17 @@ $<^>!Backspace:: Send("{SC0e}")
  <!SC2c::SendInput("{Blind}x")
 <!+SC2c::SendInput("{Blind}X")
 
+ <!SC2d::SendInput("{Blind}-")
+<!+SC2d::SendInput("{Blind}?")
+
  <!SC2e::SendInput("{Blind}v")
 <!+SC2e::SendInput("{Blind}V")
 
  <!SC2f::SendInput("{Blind}b")
 <!+SC2f::SendInput("{Blind}B")
+
+ <!SC31::SendInput("{Blind}.")
+<!+SC31::SendInput("{Blind}:")
 
  <!SC32::SendInput("{Blind}h")
 <!+SC32::SendInput("{Blind}H")
@@ -663,10 +698,34 @@ $<^>!Backspace:: Send("{SC0e}")
  <!SC33::SendInput("{Blind}g")
 <!+SC33::SendInput("{Blind}G")
 
+ <!SC34::SendInput("{Blind},")
+<!+SC34::SendInput("{Blind};")
+
  <!SC35::SendInput("{Blind}k")
 <!+SC35::SendInput("{Blind}K")
 
 ;  Pinky keys
+
+ <!SC0c::SendInput("{Blind}/")
+<!+SC0c::SendInput("{Blind}_")
+
+ <!SC0d::SendInput("{Blind}=")
+<!+SC0d::SendInput("{Blind}{+}")
+
+ <!SC1a::SendInput("{Blind}[")
+<!+SC1a::SendInput("{Blind}{{}")
+
+ <!SC1b::SendInput("{Blind}]")
+<!+SC1b::SendInput("{Blind}{}}")
+
+ <!SC28::SendInput("{Blind}'")
+<!+SC28::SendInput("{Blind}`"")
+
+ <!SC29::SendInput("{Blind}``")
+<!+SC29::SendInput("{Blind}~")
+
+ <!SC2b::SendInput("{Blind}\")
+<!+SC2b::SendInput("{Blind}|")
 
  <!SC56::SendInput("{Blind}z")
 <!+SC56::SendInput("{Blind}Z")
