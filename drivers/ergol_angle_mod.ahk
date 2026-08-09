@@ -434,6 +434,33 @@ $<^>!Backspace:: Send {SC0e}
 
 ;  Digits
 
+ ^SC02::Send ^1
+
+ ^SC03::Send ^2
+
+ ^SC04::Send ^3
+
+ ^SC05::Send ^4
+^+SC05::Send ^$
+
+ ^SC06::Send ^5
+^+SC06::Send ^`%
+
+ ^SC07::Send ^6
+^+SC07::Send ^{^}
+
+ ^SC08::Send ^7
+^+SC08::Send ^&
+
+ ^SC09::Send ^8
+^+SC09::Send ^*
+
+ ^SC0a::Send ^9
+^+SC0a::Send ^{#}
+
+ ^SC0b::Send ^0
+^+SC0b::Send ^@
+
 ;  Letters, first row
 
  ^SC10::Send  ^q
@@ -459,6 +486,8 @@ $<^>!Backspace:: Send {SC0e}
 
  ^SC17::Send  ^d
 ^+SC17::Send ^+D
+
+^+SC18::Send  ^{!}
 
  ^SC19::Send  ^y
 ^+SC19::Send ^+Y
@@ -500,11 +529,17 @@ $<^>!Backspace:: Send {SC0e}
  ^SC2c::Send  ^x
 ^+SC2c::Send ^+X
 
+ ^SC2d::Send  ^-
+^+SC2d::Send  ^?
+
  ^SC2e::Send  ^v
 ^+SC2e::Send ^+V
 
  ^SC2f::Send  ^b
 ^+SC2f::Send ^+B
+
+ ^SC31::Send  ^.
+^+SC31::Send  ^:
 
  ^SC32::Send  ^h
 ^+SC32::Send ^+H
@@ -512,10 +547,34 @@ $<^>!Backspace:: Send {SC0e}
  ^SC33::Send  ^g
 ^+SC33::Send ^+G
 
+ ^SC34::Send  ^,
+^+SC34::Send  ^;
+
  ^SC35::Send  ^k
 ^+SC35::Send ^+K
 
 ;  Pinky keys
+
+ ^SC0c::Send ^/
+^+SC0c::Send ^_
+
+ ^SC0d::Send ^=
+^+SC0d::Send ^{+}
+
+ ^SC1a::Send ^[
+^+SC1a::Send ^{{}
+
+ ^SC1b::Send ^]
+^+SC1b::Send ^{}}
+
+ ^SC28::Send ^'
+^+SC28::Send ^"
+
+ ^SC29::Send ^``
+^+SC29::Send ^~
+
+ ^SC2b::Send ^\
+^+SC2b::Send ^|
 
  ^SC56::Send  ^z
 ^+SC56::Send ^+Z
