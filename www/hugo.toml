@@ -4,7 +4,7 @@ locale = "fr"
 title = "Ergo‑L"
 
 [params]
-subtitle = "Ergonomie optimisée pour le français, l’anglais, le code."
+subtitle = "Disposition clavier ergonomique pour le français, l’anglais et le code."
 description = "Une disposition de clavier ergonomique de type Colemak, optimisée pour le français, l’anglais et le code."
 
 [security]
