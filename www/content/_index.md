@@ -27,11 +27,11 @@ footer = "[Flux RSS](articles/index.xml)"
   claviers, ergonomiques ou non, de 33 à 105 touches.
 :::
 
-Ergo‑L a été mis au point par des membres des projets
-[QWERTY-Lafayette][Lafayette] et [Bépo][] pour corriger les principaux défauts
-de leurs dispositions respectives, tout en profitant des avancées récentes dans
-le domaine de l’ergonomie clavier, notamment les approches [1DFH][1dfh] et
-[Colemak][optimisation].
+Ergo‑L (se prononce « ergol » en un mot) a été mis au point par des membres
+des projets [QWERTY-Lafayette][Lafayette] et [Bépo][] pour corriger les
+principaux défauts de leurs dispositions respectives, tout en profitant des
+avancées récentes dans le domaine de l’ergonomie clavier, notamment les
+approches [1DFH][1dfh] et [Colemak][optimisation].
 
 C’est une disposition très efficace. Grâce à nos [outils d’optimisation][stats]
 nous avons pu obtenir une disposition de clavier bien plus performante que Bépo
