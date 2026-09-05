@@ -51,9 +51,9 @@ D’autres utilisateurs ont adopté des solutions plus radicales, comme [Wismill
 
 **Erglace est une alternative prometteuse**, qui mérite qu’on travaille à résoudre les quelques petits problèmes restants. Il est déjà bien meilleur que Bépo ou Optimot en l’état, et peut donc convenir à beaucoup d’utilisateurs et utilisatrices.
 
-[1]: {{< relref "ressources/glossaire#SFB" >}}
-[2]: {{< relref "ressources/glossaire#redirection" >}}
-[3]: {{< relref "ressources/glossaire#roulement" >}}
+[1]: {{< relref "aide/glossaire#SFB" >}}
+[2]: {{< relref "aide/glossaire#redirection" >}}
+[3]: {{< relref "aide/glossaire#roulement" >}}
 [4]: https://github.com/Lysquid/Erglace/blob/main/NOTES.md
 
 [Lysquid]:       https://github.com/Lysquid

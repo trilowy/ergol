@@ -240,4 +240,4 @@ Licence
 [Ækeynox]:                     https://github.com/OneDeadKey/zmk-config-aekeynox
 [Quacken ZMK]:                 https://github.com/Nuclear-Squid/zmk-keyboard-quacken
 [angle mod]:                   https://colemakmods.github.io/ergonomic-mods/angle.html
-[FAQ]:                         {{< relref "ressources/faq" >}}
+[FAQ]:                         {{< relref "aide/faq" >}}

@@ -43,86 +43,50 @@ author = "authors"
         pageRef = "/"
         weight  = 1
     [[menus.main]]
-        name    = "Présentation"
-        pageRef = "/presentation"
-        parent  = "Ergo‑L"
-        weight  = 1
-    [[menus.main]]
         name    = "Installation"
         pageRef = "/installation"
-        parent  = "Ergo‑L"
+        weight  = 2
     [[menus.main]]
-        name    = "Alternatives"
+        name    = "Apprendre"
+        pageRef = "/apprendre"
+        weight  = 3
+    [[menus.main]]
+        name    = "Aide"
+        pageRef = "/aide"
+        weight  = 4
+    [[menus.main]]
+        name    = "Articles"
+        pageRef = "/articles"
+        weight  = 5
+    [[menus.main]]
+        name    = "Glossaire"
+        pageRef = "/aide/glossaire"
+        parent  = "Aide"
+        weight  = 1
+    [[menus.main]]
+        name    = "FAQ"
+        pageRef = "/aide/faq"
+        parent  = "Aide"
+        weight  = 2
+    [[menus.main]]
+        name    = "Autre ressources"
+        pageRef = "/ressources"
+        weight  = 6
+    [[menus.main]]
+        name    = "Dispositions alternatives"
         pageRef = "/alternatives"
-        weight  = 2
-    [[menus.main]]
-        name    = "Bépo ?"
-        pageRef = "/alternatives/bepo"
-        parent  = "Alternatives"
+        parent  = "Autre ressources"
         weight  = 1
-    [[menus.main]]
-        name    = "Erglace !"
-        pageRef = "/alternatives/erglace"
-        parent  = "Alternatives"
-        weight  = 2
-    [[menus.main]]
-        name    = "Lafayette *"
-        pageRef = "/alternatives/lafayette"
-        parent  = "Alternatives"
-        weight  = 3
-    [[menus.main]]
-        name    = "Hypergol ?!"
-        pageRef = "/alternatives/hypergol"
-        parent  = "Alternatives"
-        weight  = 4
-    [[menus.main]]
-        name    = "Claviers"
-        pageRef = "/claviers"
-        weight  = 3
-    [[menus.main]]
-        name    = "Full-size"
-        pageRef = "/claviers/full-size"
-        parent  = "Claviers"
-        weight  = 1
-    [[menus.main]]
-        name    = "Compacts"
-        pageRef = "/claviers/compacts"
-        parent  = "Claviers"
-        weight  = 2
-    [[menus.main]]
-        name    = "Arsenik"
-        pageRef = "/claviers/arsenik"
-        parent  = "Claviers"
-        weight  = 3
-    [[menus.main]]
-        name    = "Selenium"
-        pageRef = "/claviers/selenium"
-        parent  = "Claviers"
-        weight  = 4
     [[menus.main]]
         name    = "Analyseur"
         pageRef = "/stats"
-        weight  = 4
+        parent  = "Autre ressources"
+        weight  = 2
     [[menus.main]]
-        name    = "FAQ / Ressources"
-        pageRef = "/ressources"
-        weight  = 5
-    [[menus.main]]
-        name    = "FAQ"
-        pageRef = "/ressources/faq"
-        parent  = "FAQ / Ressources"
-    [[menus.main]]
-        name    = "Glossaire"
-        pageRef = "/ressources/glossaire"
-        parent  = "FAQ / Ressources"
-    [[menus.main]]
-        name    = "Apprendre"
-        pageRef = "/dactylo"
-        weight  = 6
-    # [[menus.main]]
-    #     name    = "Articles"
-    #     pageRef = "/articles"
-    #     weight  = 6
+        name    = "Claviers ergonomiques"
+        pageRef = "/claviers"
+        parent  = "Autre ressources"
+        weight  = 3
 
 # Disable RSS everywhere, and enable it manually in /content/articles/_index.md
 [outputs]

@@ -2,8 +2,6 @@
 title = "Foire aux questions"
 +++
 
-**🚧 En construction 🚧**
-
 <style>
 h4 {
     font-size: 1.1rem;
@@ -173,8 +171,8 @@ onglet Integration > encart System-wide hot keys, et changer ou supprimer la
 valeur du raccourci Global auto-type.
 
 
-[glossaire]:              {{< relref "ressources/glossaire" >}}
-[touche morte]:           {{< relref "ressources/glossaire#touche-morte-def" >}}
+[glossaire]:              {{< relref "aide/glossaire" >}}
+[touche morte]:           {{< relref "aide/glossaire#touche-morte-def" >}}
 [QWERTY-Lafayette]:       {{< relref "lafayette/#qwerty-lafayette" >}}
 [XKalamine]:              https://github.com/OneDeadKey/kalamine#xkalamine
 [xkb-custom]:             https://github.com/OneDeadKey/kalamine#linux-root-xkb_symbols

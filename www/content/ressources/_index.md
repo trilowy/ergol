@@ -1,55 +1,58 @@
 +++
-title = "Ressources"
+title = "Autres ressources"
 
 [params]
 hideSummaryOfChildPages = true
 +++
 
-Perdu·e dans la galaxie des dispositions clavier ?<br>
-Une panne dans la propulsion ?
+On met les gaz, vers l’infini et au-delà !
 
 :::{.highlight}
-Cartographie des dispositions clavier
 
-: Notre constellation : **[Ergo‑L]({{< relref "presentation" >}})**,
-[Erglace]({{< relref "erglace" >}}),
-[QWERTY-Lafayette]({{< relref "lafayette" >}})
+Cartographie des dispositions clavier et présentation des [alternatives]
 
-: Une planète de pionniers : [Bépo]({{< relref "bepo" >}})
+: Notre constellation : **[Ergo‑L]**, [Erglace], [QWERTY-Lafayette], [Hypergol]
 
-: Préparez votre voyage avec le **[comparatif]({{< relref "alternatives#tableau-comparatif" >}})**
+: Une planète de pionniers : [Bépo]
 
-[Glossaire]({{< relref "ressources/glossaire" >}})
+: Préparez votre voyage avec le **[comparatif]**
 
-: Ne naviguez pas à vue, utilisez le radar des **définitions** des termes difficiles
+Les outils [OneDeadKey]
 
-[Foire aux questions]({{< relref "ressources/faq" >}})
-
-: Accédez à toute la sagesse des Ergonautes avec les réponses aux **questions
-fréquentes**
-
-[Serveur Discord](https://discord.gg/5xR5K3nAFX)
-
-: Pour **dialoguer** directement avec la communauté : entraide, technique et fun !
-
-Les outils
-
-: [DuckTypist]({{< relref "dactylo" >}}) : pour **apprendre** à votre rythme nos dispositions
-clavier
+: [DuckTypist] : pour **apprendre** à votre rythme nos dispositions clavier
 
 : [Kalamine] : pour **personaliser** facilement votre disposition clavier
 
-: [ergol-memo](https://ddirecte.org/ergol-memo.html) : pour **chercher facilement** comment taper certains caractères
+: [Analyseur] : pour **évaluer** les statistiques d’une disposition clavier
+  (disponible dans Kalamine)
 
-Un bug à signaler, une amélioration à proposer ?
+[Claviers ergonomiques]
 
-: Les questions liées aux **pilotes** et au **site web** sont à formuler sur le
-[dépôt de code Ergo‑L](https://github.com/Nuclear-Squid/ErgoL) — en français ou
-en anglais, à votre convenance.
+: [Quacken] : un clavier ergonomique, libre et abordable ([son histoire])
 
-: Les questions liées aux **outils**, en particulier [Kalamine], sont à formuler
-sur les [dépôts de code OneDeadKey](https://github.com/OneDeadKey) — de préférence
-en anglais. 
+: [QMx 2040] : hommage au clavier TypeMatrix, tout aussi libre que le Quacken
+
+: [Arsenik] : pour utiliser un clavier standard comme un clavier programmable
+
+: [Selenium] : une configuration clé en main pour les claviers programmables
+
 :::
 
-[Kalamine]: https://github.com/OneDeadKey/kalamine
+
+[alternatives]:          {{< relref "alternatives" >}}
+[Ergo‑L]:                {{< relref "presentation" >}}
+[Erglace]:               {{< relref "alternatives/erglace" >}}
+[QWERTY-Lafayette]:      {{< relref "alternatives/lafayette" >}}
+[Hypergol]:              {{< relref "alternatives/hypergol" >}}
+[Bépo]:                  {{< relref "bepo" >}}
+[comparatif]:            {{< relref "alternatives#tableau-comparatif" >}}
+[OneDeadKey]:            https://onedeadkey.github.io/
+[DuckTypist]:            {{< relref "dactylo" >}}
+[Kalamine]:              https://github.com/OneDeadKey/kalamine
+[Analyseur]:             {{< relref "stats" >}}
+[Claviers ergonomiques]: {{< relref "claviers" >}}
+[Quacken]:               https://onedeadkey.github.io/quacken/
+[son histoire]:          {{< relref "articles/quacken" >}}
+[QMx 2040]:              https://onedeadkey.github.io/qmx2040/
+[Arsenik]:               {{< relref "claviers/arsenik" >}}
+[Selenium]:              {{< relref "claviers/selenium" >}}

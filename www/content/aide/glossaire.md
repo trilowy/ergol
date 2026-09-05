@@ -2,8 +2,6 @@
 title = "Glossaire"
 +++
 
-**🚧 en construction 🚧**
-
 <style>
   dt + dd:has(+ dd), dd + dd { display: list-item; list-style-type: "-  "; }
   dd p { margin: 0.7em 0; }
@@ -140,11 +138,12 @@ de la technologie du clavier pour développer des dispositions de clavier.
 
 [Point de code]{#point-de-code-def} (<i lan="en">code point</i>)
 
-: TODO (cf. [point de code] sur Wikipedia).
+: 🚧 définition à rajouter 🚧 (cf. [point de code] sur Wikipedia).
 
 [Modificateur]{#modificateur-def}
 
-: TODO (Modificateurs courants : `Shift`, `Caps`, `AltGr`, etc.).
+: 🚧 définition à rajouter 🚧 (Modificateurs courants : `Shift`, `Caps`,
+`AltGr`, etc.).
 
 [Couche]{#couche-def} (<i lang="en">layer</i>)
 
@@ -235,11 +234,11 @@ comportement d’une touche lorsqu’elle est utilisée dans un raccourci clavie
 
 keylayout
 
-: TODO
+: 🚧 définition à rajouter 🚧
 
 Karabiner
 
-: TODO
+: 🚧 définition à rajouter 🚧
 
 
 ### Linux
@@ -401,22 +400,22 @@ associées à des noms anglais pour faciliter leur utilisation. Exemples : `a`
 
 Key type
 
-: TODO
+: 🚧 définition à rajouter 🚧
 
 Key Action
 
-: TODO
+: 🚧 définition à rajouter 🚧
 
 [Groupe]{#group-xkb-def}
 
-: TODO
+: 🚧 définition à rajouter 🚧
 
 : Également appelé abusivement _disposition_ (<i lang="en">layout</i>).
-TODO: développer.
+🚧 à développer 🚧
 
 Keymap
 
-: TODO
+: 🚧 définition à rajouter 🚧
 
 [ISO/IEC 9995-2]: https://en.wikipedia.org/wiki/ISO/IEC_9995#ISO/IEC_9995-2
 [input-event-codes.h]: https://github.com/torvalds/linux/blob/90d35da658da8cff0d4ecbb5113f5fac9d00eb72/include/uapi/linux/input-event-codes.h#L91

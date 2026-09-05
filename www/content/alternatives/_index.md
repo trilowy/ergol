@@ -6,12 +6,14 @@ hideSummaryOfChildPages = true
 +++
 
 :::{.highlight}
-- [Ergo‑L ou Bépo ?]({{< relref "bepo/" >}})
+- [Ergo‑L ou Bépo ?]({{< relref "alternatives/bepo" >}})
   <br> Avantages et inconvénients des deux dispositions.
-- [Erglace !]({{< relref "erglace/" >}})
+- [Erglace !]({{< relref "alternatives/erglace" >}})
   <br> Une approche moderne du Dvorak à la française.
-- [Lafayette ★]({{< relref "lafayette/" >}})
+- [Lafayette ★]({{< relref "alternatives/lafayette" >}})
   <br> Des adaptations [1DFH][] de QWERTY, Colemak et Bépo.
+- [Hypergol ?!]({{< relref "alternatives/hypergol" >}})
+  <br> Une disposition expérimentale conçue pour les claviers programmables
 :::
 
 Ergo‑L est conçu pour n’avoir que des avantages sur Azerty, Qwerty, Dvorak et
